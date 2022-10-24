@@ -1,0 +1,22 @@
+{
+  "name": "fe-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/lamutd0812/fe-build.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/lamutd0812/fe-build/issues"
+  },
+  "homepage": "https://gitlab.com/lamutd0812/fe-build#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
